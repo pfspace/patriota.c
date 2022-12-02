@@ -68,17 +68,17 @@ Não desistam! SELVA!\n\
         segundo--;
  
         //atualiza contador
-        if(segundo==0 && minuto != 0)
+        if(segundo < 0 && minuto != 0)
         {
             minuto-=1;
             segundo=59;
         }
-        if(minuto==0 && hora !=0)
+        if(minuto < 0 && hora !=0)
         {
             hora-=1;
             minuto=59;
         }
-        if(hora==0 && minuto==0 && segundo==0)
+        if(hora==0 && minuto == 0 && segundo < 0)
         {
             // Renova o ânimo dos patriotas com mentiras
             // e frases de efeito
