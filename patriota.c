@@ -55,7 +55,7 @@ int main()
         system("clear");
          
         //exibe o timer no formato HH : MM : SS 
-        printf("Atenção, Patriotas! Trago novidades! \
+        printf("Atenção, Patriotas! Trago novidades! \n\
 Tudo será resolvido nas próximas 72 horas! \n\
 Faltam apenas %02d : %02d : %02d! \n\
 Não desistam! SELVA!\n\
