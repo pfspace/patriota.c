@@ -7,7 +7,7 @@ Minha singela contribuição para com a pátria. :-)
 Esse programa é apenas uma sátira, um meme, por isso não o utilize como modelo para construir um cronômetro ou temporizador se estiver aprendendo a programar. A forma adequada de se criar um cronômetro ou um temporizador é fazendo o cálculo da diferença entre a hora real informada pelo relógio da máquina e o tempo que se quer calcular. 
 
 ### Exemplo: 
-Para fazer um temporizador (contagem regressiva) de 24 horas, você adiciona 60 minutos à hora informada pela máquina e em vez de executar um loop incrementando cada segundo, atualiza essa diferença de acordo com a hora real. <br>(Hora de início + 60 minutos) - hora atual.
+Para fazer um temporizador (contagem regressiva) de 24 horas, você adiciona 1440 minutos à hora informada pela máquina e em vez de executar um loop incrementando cada segundo, atualiza essa diferença de acordo com a hora real. <br>(Hora de início + 1440 minutos) - hora atual.
 
 Para criar um cronômetro é o inverso: 
 Você parte da hora real da máquina e a cada segundo calcula quanto tempo se passou entre a hora atual e aquela na qual você iniciou o cronômetro.<br>(Hora atual - Hora de início)
