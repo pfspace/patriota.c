@@ -1,5 +1,8 @@
 # patriota.c
-Minha singela contribuição para com a pátria
+Programa que reinicia uma contagem regressiva de 72 horas para manter a "militância patriótica" mobilizada com mentiras e frases de efeito.
+
+Minha singela contribuição para com a pátria. :-)
+
 
 ![patriota_screen02](https://user-images.githubusercontent.com/85464766/205185958-8c996d5f-9a75-4c54-a61d-e41f1788750a.png)
 
