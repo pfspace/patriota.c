@@ -13,6 +13,9 @@ Para criar um cronômetro é o inverso:
 Você parte da hora real da máquina e a cada segundo calcula quanto tempo se passou entre a hora atual e aquela na qual você iniciou o cronômetro.<br>(Hora atual - Hora de início)
 
 Esse programinha é apenas um meme. :-)
+
+PS: Corrigida a explicação. Ia dar o exemplo com 1 hora, por isso falei em 60 minutos, mudei para 24 horas e esqueci de atualizar na outra ponta. Se eu continuar dando essas mancadas o cachaceiro vai me convidar para participar do seu grupo de transição. X-D
+
 <br><br>
 ![patriota_screen02](https://user-images.githubusercontent.com/85464766/205187719-4de34f0a-42cc-4441-ba8a-8081115ccb6a.png)
 
