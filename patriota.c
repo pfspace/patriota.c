@@ -25,7 +25,7 @@ int renova_animo_dos_patriotas()
 
     // Renova ânimo da militância patriótica!!    
     printf("\
-    \n\nCalma, patriotas!!! Agora é pra valer!!! \n\
+    \n\nCalma, Patriotas!!! Agora é pra valer!!! \n\
 Tudo será resolvido nas próximas 72 horas!! \nNão desistam!!\
 Não percam as esperanças! \n\
 É pelo Brasil!! SELVA!!! \n\n\
